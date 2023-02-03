@@ -14,4 +14,4 @@ if(max<a2)
 {
     max=a2;
 }
-Console.WriteLine($"Максимальная цифра в числе {number1} -> {max}")
+Console.WriteLine($"Максимальная цифра в числе {number1} -> {max}");
