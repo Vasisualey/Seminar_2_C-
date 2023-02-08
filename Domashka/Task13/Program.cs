@@ -2,7 +2,6 @@
 // 645 -> 5
 // 78 -> третьей цифры нет
 // 32679 -> 6
-
 Console.Clear();
 Console.WriteLine("Введите число: ");
 int number1 = int.Parse(Console.ReadLine());
